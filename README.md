@@ -1,4 +1,4 @@
-# FRENCH
+#FRENCH
 # Reservia
 Deuxième projet du parcours développeur web chez OpenClassrooms.
 L'objectif est d'intégrer la maquette d'un site de planification de vacance nommé "Reservia"
@@ -20,7 +20,6 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 - Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
 - Même si aucune maquette pour la résolution tablette n'est fournis, l'intégration doit la prendre en charge.
 - Les images doivent être de taille adéquate afin qu'elle soit le plus jolie possible en impactant le moins possible le temps de chargement de la page.
-- [Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte au validateur W3C HTML et CSS.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathisbarre.github.io%2FMathisBarre_2_14102020%2F)
 - Le site devra être compatible avec les dernières versions de Chrome et Firefox.
 - Le HTML et le CSS doivent être séparés et le dossier doit être organisé
 - Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab
@@ -31,3 +30,36 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 
 ## Contact
   MAIL : erwangriffon617@gmail.com
+
+#English
+# Reservia
+Second project of the web developer path at OpenClassrooms.
+The objective is to integrate the model of a vacancy planning site named "Reservia"
+
+![artwork](./README/Desktop.png)
+
+## Items provided by the virtual enterprise.
+- The model for computer and telephone resolutions is given to us.
+- All images on the site are also delivered in sm, md, l & xl format.
+- Icons are from [Font Awesome](https://fontawesome.com/)
+- Colors are: blue #0065FC - light blue #DEEBFF - grey #F2F2F2
+- The font is ["Raleway"](https://fonts.google.com/specimen/Raleway)
+
+## Specifications
+- Integration must be done in HTML5 & CSS3, without a framework (bootstrap for example)
+- The search field must be an input field, the text of which can be edited. The search functionality should not be implemented.
+- Each hosting or activity card must be clickable in its entirety. For now the links will be empty.
+- Filters, although not functional, must change style as you fly over.
+- In the menu, the links “Accommodation” and “Activities” are anchors that must lead to the sections of the page.
+- Even if no tablet resolution artwork is provided, integration must support it.
+- The images must be of adequate size so that it is as pretty as possible with the least possible impact on the page loading time.
+- The site should be compatible with the latest versions of Chrome and Firefox.
+- HTML and CSS to be separated and folder to be organized
+- The code must be versioned with git and have a remote repo on Github or Gitlab
+
+## Project Delivery Notes
+- The integration is done on the Visual Studio Code editor with the plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+
+## Contact
+  EMAIL: erwangriffon617@gmail.com
