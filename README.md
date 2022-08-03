@@ -1,4 +1,4 @@
-# FRENCH
+# -FRENCH-
 # Reservia
 Deuxième projet du parcours développeur web chez OpenClassrooms.
 L'objectif est d'intégrer la maquette d'un site de planification de vacance nommé "Reservia"
@@ -31,7 +31,9 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 ## Contact
   MAIL : erwangriffon617@gmail.com
 
-# English
+
+
+# -English-
 # Reservia
 Second project of the web developer path at OpenClassrooms.
 The objective is to integrate the model of a vacancy planning site named "Reservia"
